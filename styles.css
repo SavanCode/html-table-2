@@ -199,3 +199,6 @@ td.no-border-bottom {
   border: none;
 }
 
+.no-left-border{
+  border-left:  0 !important;
+}
