@@ -180,8 +180,22 @@ td.no-border-bottom {
   background-color: #f0f0f0;
 }
 
+.image-container{
+  display: flex;
+  justify-content: center;
+}
+
 /*  text */
 .text-underline{
   text-decoration: underline;
+}
+.text-normal{
+  text-decoration: none;
+  font-weight:normal;
+}
+
+/* border style */
+.no-border{
+  border: none;
 }
 
